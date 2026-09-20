@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Guilherme José Teixeira Rabelo Leite
-Tópicos Essenciais para Programação
+Respondendo a lista de exercício do GitHub
